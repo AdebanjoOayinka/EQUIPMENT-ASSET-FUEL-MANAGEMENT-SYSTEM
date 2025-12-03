@@ -89,16 +89,20 @@ Note: Individual colour codes was maintained in this report to show the gender t
 
       ● Page 1: Generator & Other Asset Fuel Consumption
       
-           
+           ![Screenshot B](https://github.com/user-attachments/assets/79171330-75c7-48d5-af41-f2a37863735f)
                 
       ● Page 2: CHE (Container Handling Equipment) Fuel Consumption Dash boards
       EH:    
+![Screenshot EH](https://github.com/user-attachments/assets/73694b68-54eb-4e72-bf83-55bcd97f148c)
 
       RS:
+![Screenshot RS](https://github.com/user-attachments/assets/8115150c-95b2-4989-82c3-c728c3efdee9)
 
       RTG:
+![Screenshot RTG](https://github.com/user-attachments/assets/5e1db20a-161d-43cd-98f2-91fee23e2e86)
 
       MHC:
+![Screenshot MHC](https://github.com/user-attachments/assets/77c9d539-33c5-41f2-b798-cdf976228984)
 
      
 ## Spreadsheet: 
