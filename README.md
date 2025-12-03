@@ -88,9 +88,8 @@ Note: Individual colour codes was maintained in this report to show the gender t
 #### Charts were deployed for:
 
       ● Page 1: Generator & Other Asset Fuel Consumption
-      
-           ![Screenshot B](https://github.com/user-attachments/assets/79171330-75c7-48d5-af41-f2a37863735f)
-                
+![Screenshot 1](https://github.com/user-attachments/assets/adb1e998-b6dd-4abe-9dac-9d4fd4f04672)
+              
       ● Page 2: CHE (Container Handling Equipment) Fuel Consumption Dash boards
       EH:    
 ![Screenshot EH](https://github.com/user-attachments/assets/73694b68-54eb-4e72-bf83-55bcd97f148c)
