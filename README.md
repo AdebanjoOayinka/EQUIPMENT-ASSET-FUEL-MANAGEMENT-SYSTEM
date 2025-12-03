@@ -20,9 +20,9 @@ I was contacted by the fuel station manager to analyse the available information
 
       ● Review the current method of gathering the data.
         
-      ● Provide and present the current year records on a spreadsheet.
+      ● Provide and present the current year records on an excell spreadsheet.
      
-      ● Analyse the data to show these Engineering KPIs:
+      ● Analyse the data to show below KPIs:
       
             ● Total monthly fuel consumed
             ● Total monthly moves per equipment
@@ -31,7 +31,7 @@ I was contacted by the fuel station manager to analyse the available information
             ● Total Moves per equipment
             ● Equipment hours worked in comparison with containers lifted
             
-       ● Analyse the data to also to show the fuel consumption rate of other assets.
+       ● Analyse the data to also to show the fuel consumption rate of other assets, such as; pool vehicles, generator, Fork lifts etc and this should be selected when needed.
        
 ## PROJECT INSIGHT
 
@@ -103,10 +103,3 @@ Note: Individual colour codes was maintained in this report to show the gender t
 
       MHC:
 ![Screenshot MHC](https://github.com/user-attachments/assets/77c9d539-33c5-41f2-b798-cdf976228984)
-
-     
-## Spreadsheet: 
-     
-Excel Analysis Sheet: 
-
-Excel Sheet For Power BI:
